@@ -18,7 +18,7 @@ This repository is a structured collection of my self-learning projects and expe
 
 ## 📌 Background
 
-I’m an engineer with a background in mechatronics, control systems, and embedded architectures. This lab represents my journey into quantum computing — where physics meets software and control theory.
+I’m an engineer with a background in mechatronics, control systems, and embedded architectures. This playground represents my journey into quantum computing — where physics meets software and control theory.
 
 ---
 
